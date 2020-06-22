@@ -1,0 +1,20 @@
+#head
+{
+	text-align: center;
+	color: red;
+}
+#cart
+{
+	position: relative;
+	left: 1450px;
+	bottom: 20px;
+}
+#order
+{
+	margin-left: 750px;
+}
+#back
+{
+	position: relative;
+	bottom:40px;
+}
